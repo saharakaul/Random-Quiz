@@ -1,0 +1,59 @@
+
+body {
+    /*background-color: palevioletred; */
+    background: url("Images/question-mark-background-1909040_960_720.png") 
+    no-repeat center fixed;
+    background-size: cover;
+    padding-bottom: 150 px;
+    border: 1px solid black
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    font-family: 'Hepta Slab', serif;
+  }
+  h2 {
+      text-align: center;
+  }
+
+  a {
+        text-decoration: "none";
+        font-weight: "bold";
+  }
+  a:hover {
+      text-decoration: underline;
+  }
+  p, h2 {
+      color: black;
+  }
+  
+  p, ul, input {
+      font-family: 'Chilanka', cursive;
+      letter-spacing: 0.5 px;
+  }
+
+    button {
+      background-color: black;
+      color: white;
+      border: 2px solid black;
+      border-radius: 25px;
+      font-size: 20px;
+      padding: 10px 15px;
+      margin-right: 50px;
+  }
+  
+  div {background-color: white;
+       padding: 20px 150px 100px;
+       width: 600px;
+       margin: auto; 
+       border-radius: 20px;
+}
+
+.black-border{
+    border: 1px solid black;
+}
+button {
+    margin: auto;
+}
